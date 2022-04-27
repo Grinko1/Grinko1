@@ -1,5 +1,7 @@
 Hi 👋 My name is Nadya Grinko
+
 Junior Frontend Developer (React)
+
 Currently, I'm looking for a job as a frontend developer
 
 🌍  I'm based in Russia
