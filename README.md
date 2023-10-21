@@ -14,10 +14,10 @@ Currently, I'm looking for a job as a frontend developer
 
 
 Skills:
-Javascript HTML5 React Sass Css Redux Redux Toolkit  
+Javascript Typescript React HTML5 Sass Css Redux Redux-Toolkit Webpack Vite eslint Storybook Feature slice design SOLID KISS DRY
 
 Familiar with technology:
-NodeJS Express Firebase MongoDB PostreSQL MySQL Laravel NextJS TailwindCSS Bootstrap Material UI Firebase Figma TypeScript
+NodeJS Express Firebase MongoDB PostreSQL MySQL Laravel NextJS TailwindCSS Bootstrap Material UI Firebase Figma
 
 
 
