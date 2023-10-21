@@ -8,7 +8,7 @@ Currently, I'm looking for a job as a frontend developer
 
 ✉️  You can contact me at GrinkoJs@yandex.ru or https://tlgg.ru/NadezhdaGrinko
 
-🧠  I'm learning NextJs, and keep studying Js, React, Redux
+🧠  I continue to study advanced front-end technologies
 
 🤝  I'm open to work
 
