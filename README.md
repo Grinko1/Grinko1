@@ -8,13 +8,13 @@ Currently, I'm looking for a job as a frontend developer
 
 ✉️  You can contact me at GrinkoJs@yandex.ru or https://tlgg.ru/NadezhdaGrinko
 
-🧠  I continue to study advanced front-end technologies
+🧠  Now I study Java and Spring
 
 🤝  I'm open to work
 
 
 Skills:
-Javascript Typescript React HTML5 Sass Css Redux Redux-Toolkit Webpack Vite eslint Storybook Feature slice design SOLID KISS DRY
+Javascript Typescript React Java Spring Hibernate Sqsl HTML5 Sass Css Redux Redux-Toolkit Webpack Vite eslint Storybook Feature slice design SOLID KISS DRY
 
 Familiar with technology:
 NodeJS Express Firebase MongoDB PostreSQL MySQL Laravel NextJS TailwindCSS Bootstrap Material UI Firebase Figma
