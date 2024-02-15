@@ -8,7 +8,7 @@ Currently, I'm looking for a job as a frontend developer
 
 ✉️  You can contact me at GrinkoJs@yandex.ru or https://tlgg.ru/NadezhdaGrinko
 
-🧠  Now I study Java and Spring
+🧠  Now I'm learning Java and Spring
 
 🤝  I'm open to work
 
