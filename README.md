@@ -1,8 +1,8 @@
 Hi 👋 My name is Nadya Grinko
 
-Junior Frontend Developer (React)
+Junior Fullstack Developer (Spring, React)
 
-Currently, I'm looking for a job as a frontend developer
+Currently, I'm looking for a job as a fullstack/backend developer
 
 🌍  I'm based in Russia
 
@@ -14,10 +14,10 @@ Currently, I'm looking for a job as a frontend developer
 
 
 Skills:
-Javascript Typescript React Java Spring Hibernate Sqsl HTML5 Sass Css Redux Redux-Toolkit Webpack Vite eslint Storybook Feature slice design SOLID KISS DRY
+Java Spring Spring-Boot Hibernate Maven Gradle Jpa Sqsl Javascript Typescript React HTML5 Sass Css Redux Redux-Toolkit Webpack Vite eslint Storybook Feature slice design SOLID KISS DRY
 
 Familiar with technology:
-NodeJS Express Firebase MongoDB PostreSQL MySQL Laravel NextJS TailwindCSS Bootstrap Material UI Firebase Figma
+NodeJS Express Firebase MongoDB Laravel NextJS TailwindCSS Bootstrap Material UI Firebase Figma
 
 
 
